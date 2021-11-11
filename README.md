@@ -1,2 +1,2 @@
-# pk-elementor-widgets
-PK Elementor Widgets
+# pk-widgets
+PK Widgets
